@@ -2,7 +2,7 @@
 
 Are you a fan of online multiplayer games and seeking a competitive edge in the popular Skribbl.io? If so, our Chrome extension, Skribbl-Helper, is designed to enhance your gaming experience by providing helpful hints to up your Skribbl.io skills.
 
-## The Story Behind Skribbl-Helper
+## The Story Behind Skribblers
 Skribbl.io is a fantastic and fast-paced multiplayer game that's perfect for having a blast with friends. During the COVID lockdown, many of us found solace and entertainment in the game, similar to the popularity of Among Us. As an enthusiastic Skribbl.io player, I noticed that some words were recurring quite frequently.
 
 Like any tech enthusiast, I embarked on a quest to find a database or word list online, just in case someone had meticulously compiled every word used in the game. To my delight, I stumbled upon [skribbliohints.github.io](http://skribbliohints.github.io), a treasure trove of word hints.
