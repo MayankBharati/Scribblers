@@ -1,40 +1,39 @@
-# Skribbl-Helper
-🎮 Chrome extension that gives Hints to help you win online Skribbl (http://skribbl.io) game!
+# Skribbl-Helper: Elevate Your Skribbl.io Gaming Experience 🎮
 
-## Backstory
-[Skribbl](http://skribbl.io/) is one of the best and quick multiplayer game to play with any kind of friends. And obviously your quarantine times are the worst if you haven't tried this game yet, atleast after a few AmongUs sessions. Anyways, me just like any other person stuck in Covid lockdown started playing Skribbl so damn crazyily that I became to realise these words are poping up again and again.
+Are you a fan of online multiplayer games and seeking a competitive edge in the popular Skribbl.io? If so, our Chrome extension, Skribbl-Helper, is designed to enhance your gaming experience by providing helpful hints to up your Skribbl.io skills.
 
-So, just like any other geek outside, I started to search for any database/word-list available online (just in case someone actually scraped every freaking word xD). Luckily with in no time I landed here [skribbliohints.github.io](http://skribbliohints.github.io) . Oh God! Looks like I got a treasure 😂.
-Next I started searching for some chrome extension templete where I can write up few lines of code to efficiently use this word-list and make a bot that can crack this Skribbl game. Credits to [betab0t](https://github.com/betab0t/SkribblHints) for this amazing chrome extension templete.
+## The Story Behind Skribbl-Helper
+Skribbl.io is a fantastic and fast-paced multiplayer game that's perfect for having a blast with friends. During the COVID lockdown, many of us found solace and entertainment in the game, similar to the popularity of Among Us. As an enthusiastic Skribbl.io player, I noticed that some words were recurring quite frequently.
 
-However, its kind a impossible to make the whole thing automated (as skribble kicks you out, if you started brueforcing), and yeah the whole fun of playing the game it self will be damaged. **So I made it in such a way that it drops the Hints required in the order of precedence on top of the screen and you need to play rest of game asusual.** 
+Like any tech enthusiast, I embarked on a quest to find a database or word list online, just in case someone had meticulously compiled every word used in the game. To my delight, I stumbled upon [skribbliohints.github.io](http://skribbliohints.github.io), a treasure trove of word hints.
+
+This discovery inspired me to create a Chrome extension that could efficiently utilize this word list and enhance the Skribbl.io experience. Special thanks to [betab0t](https://github.com/betab0t/SkribblHints) for the fantastic Chrome extension template that served as the foundation for this project.
+
+However, I recognized that fully automating the process could disrupt the fun of the game and potentially lead to expulsion from Skribbl.io. So, I took a different approach – Skribbl-Helper drops hints on your screen in order of relevance, allowing you to enjoy the game as usual while benefiting from valuable word hints.
 
 ![Screenshot](/images/screenshot.jpg)
 
-## Instructions
-1. [Download](https://github.com/NitishGadangi/Skribbl-Helper/archive/master.zip) and extract the files to a directory.
-2. Open the Extension Management page by navigating to `chrome://extensions`.
-  * The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
+## How to Use Skribbl-Helper
 
-3. Enable Developer Mode by clicking the toggle switch next to Developer mode.
-4. Click the `Load Unpacked` button and select the `Skribbl-Helper-master` directory.
-5. Enable `SkribblHelper` extension. if, by chance it is disabled.
-6. Goto http://skribbl.io and start playing!
+1. [Download](https://github.com/MayankBharati/Scribblers) and extract the files to a directory.
+2. Open the Extension Management page by visiting `chrome://extensions`.
+   - You can also access the Extension Management page by clicking on the Chrome menu, going to More Tools, and selecting Extensions.
+
+3. Enable Developer Mode by toggling the switch next to "Developer mode."
+4. Click the "Load Unpacked" button and select the "Skribbl-Helper-master" directory.
+5. Enable the "SkribblHelper" extension if, by any chance, it's disabled.
+6. Visit http://skribbl.io and dive into the game!
 
 ![Instructions](/images/instructions.jpg)
 
-## Contribution
+## Get Involved - Contribute!
 
+**We welcome contributions with open arms 💕. You can explore our issues page or submit a pull request to make Skribbl-Helper even better.**
 
-**Contributions are always welcome 💕 , head over to issues page or drop a PR**
+## Enjoying Skribbl-Helper?
 
-## Like my work?
-I am a student, tutor, engineer, and a maker to various projects. For 3+ years, I have been working on Open Source.
+I'm a student, tutor, engineer, and a passionate creator of various projects. For over three years, I've been committed to open-source endeavors.
 
-If you use any of my projects or like what I'm doing, please consider backing me with simple donations so that I can continue my open source work.
+If you find value in my projects and appreciate what I'm doing, please consider supporting my open-source work with a simple donation. This will enable me to continue contributing to the community.
 
-[![Buy me a coffee](https://camo.githubusercontent.com/a77b02447c0b12df87730e2712df38ff6e1f2f110ca9dd30e482bf1d8fd16a68/68747470733a2f2f626d632d63646e2e6e7963332e6469676974616c6f6365616e7370616365732e636f6d2f424d432d627574746f6e2d696d616765732f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67)](https://nitishgadangi.github.io/?buy_me_coffee)
-
-OR
-
-**Drop a star  ⭐  if you find this project interesting!**
+**If you find this project interesting, show your support by giving it a star ⭐!**
