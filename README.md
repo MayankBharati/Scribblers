@@ -1,4 +1,4 @@
-# Skribbl-Helper: Elevate Your Skribbl.io Gaming Experience 🎮
+# Skribblers: Elevate Your Skribbl.io Gaming Experience 🎮
 
 Are you a fan of online multiplayer games and seeking a competitive edge in the popular Skribbl.io? If so, our Chrome extension, Skribbl-Helper, is designed to enhance your gaming experience by providing helpful hints to up your Skribbl.io skills.
 
